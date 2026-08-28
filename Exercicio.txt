@@ -1,0 +1,25 @@
+Exercicio
+
+Utilizar; 
+Classe e objetos
+Atributos e metodos 
+construtores 
+encapsulamento 
+composição 
+heranca
+modificadores de acesso 
+
+Cenario:
+- Uma biblioteca precisa de um pequeno sistema para representar sues
+usuarios e livros
+
+dois tipos de usuarios:
+aluno 
+professor
+
+todo usuario possui um nome e um e-mail
+o aluno possui também um curso 
+o professor possui também uma disciplina 
+
+a biblioteca possui livros e cada livro possui informações com 
+titulo e autor
